@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/janela-pra-web/static/css/main.d66d6d8b.chunk.css",
+    "main.css": "/janela-pra-web/static/css/main.a5d8d0f9.chunk.css",
     "main.js": "/janela-pra-web/static/js/main.3cbd352f.chunk.js",
     "main.js.map": "/janela-pra-web/static/js/main.3cbd352f.chunk.js.map",
     "runtime-main.js": "/janela-pra-web/static/js/runtime-main.be6805d6.js",
@@ -8,15 +8,15 @@
     "static/js/2.272f21e0.chunk.js": "/janela-pra-web/static/js/2.272f21e0.chunk.js",
     "static/js/2.272f21e0.chunk.js.map": "/janela-pra-web/static/js/2.272f21e0.chunk.js.map",
     "index.html": "/janela-pra-web/index.html",
-    "precache-manifest.c74aa72c8ee64f463eed43776836de6a.js": "/janela-pra-web/precache-manifest.c74aa72c8ee64f463eed43776836de6a.js",
+    "precache-manifest.c65bed4e29c7722f3fbbebcbb9ef1345.js": "/janela-pra-web/precache-manifest.c65bed4e29c7722f3fbbebcbb9ef1345.js",
     "service-worker.js": "/janela-pra-web/service-worker.js",
-    "static/css/main.d66d6d8b.chunk.css.map": "/janela-pra-web/static/css/main.d66d6d8b.chunk.css.map",
+    "static/css/main.a5d8d0f9.chunk.css.map": "/janela-pra-web/static/css/main.a5d8d0f9.chunk.css.map",
     "static/js/2.272f21e0.chunk.js.LICENSE.txt": "/janela-pra-web/static/js/2.272f21e0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.be6805d6.js",
     "static/js/2.272f21e0.chunk.js",
-    "static/css/main.d66d6d8b.chunk.css",
+    "static/css/main.a5d8d0f9.chunk.css",
     "static/js/main.3cbd352f.chunk.js"
   ]
 }

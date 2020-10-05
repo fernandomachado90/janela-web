@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/janela-pra-web/precache-manifest.c74aa72c8ee64f463eed43776836de6a.js"
+  "/janela-pra-web/precache-manifest.c65bed4e29c7722f3fbbebcbb9ef1345.js"
 );
 
 self.addEventListener('message', (event) => {
