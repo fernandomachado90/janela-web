@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/janela-web/static/css/main.e9077c36.chunk.css",
+    "main.css": "/janela-web/static/css/main.f1285384.chunk.css",
     "main.js": "/janela-web/static/js/main.4856d722.chunk.js",
     "main.js.map": "/janela-web/static/js/main.4856d722.chunk.js.map",
     "runtime-main.js": "/janela-web/static/js/runtime-main.e51c309e.js",
@@ -8,15 +8,15 @@
     "static/js/2.45b6f164.chunk.js": "/janela-web/static/js/2.45b6f164.chunk.js",
     "static/js/2.45b6f164.chunk.js.map": "/janela-web/static/js/2.45b6f164.chunk.js.map",
     "index.html": "/janela-web/index.html",
-    "precache-manifest.57727a18182f0aea39eae9ec2ff9d253.js": "/janela-web/precache-manifest.57727a18182f0aea39eae9ec2ff9d253.js",
+    "precache-manifest.2f9b34171785580d0e1097a7ac39dfe4.js": "/janela-web/precache-manifest.2f9b34171785580d0e1097a7ac39dfe4.js",
     "service-worker.js": "/janela-web/service-worker.js",
-    "static/css/main.e9077c36.chunk.css.map": "/janela-web/static/css/main.e9077c36.chunk.css.map",
+    "static/css/main.f1285384.chunk.css.map": "/janela-web/static/css/main.f1285384.chunk.css.map",
     "static/js/2.45b6f164.chunk.js.LICENSE.txt": "/janela-web/static/js/2.45b6f164.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e51c309e.js",
     "static/js/2.45b6f164.chunk.js",
-    "static/css/main.e9077c36.chunk.css",
+    "static/css/main.f1285384.chunk.css",
     "static/js/main.4856d722.chunk.js"
   ]
 }
