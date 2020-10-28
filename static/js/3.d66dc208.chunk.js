@@ -1,0 +1,2 @@
+(this["webpackJsonpjanela-web"]=this["webpackJsonpjanela-web"]||[]).push([[3],{16:function(e,n,t){"use strict";t.r(n),t.d(n,"content",(function(){return c})),t.d(n,"title",(function(){return r}));var l=t(0),a=t.n(l),c=a.a.createElement("div",null,a.a.createElement("h1",null,"Welcome"),a.a.createElement("p",null,"Hello, world.")),r="Welcome"}}]);
+//# sourceMappingURL=3.d66dc208.chunk.js.map

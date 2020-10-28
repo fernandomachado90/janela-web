@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/janela-web/static/css/main.82123802.chunk.css",
-    "main.js": "/janela-web/static/js/main.4856d722.chunk.js",
-    "main.js.map": "/janela-web/static/js/main.4856d722.chunk.js.map",
-    "runtime-main.js": "/janela-web/static/js/runtime-main.e51c309e.js",
-    "runtime-main.js.map": "/janela-web/static/js/runtime-main.e51c309e.js.map",
-    "static/js/2.45b6f164.chunk.js": "/janela-web/static/js/2.45b6f164.chunk.js",
-    "static/js/2.45b6f164.chunk.js.map": "/janela-web/static/js/2.45b6f164.chunk.js.map",
+    "main.css": "/janela-web/static/css/main.0f16dc0f.chunk.css",
+    "main.js": "/janela-web/static/js/main.d2b8914c.chunk.js",
+    "main.js.map": "/janela-web/static/js/main.d2b8914c.chunk.js.map",
+    "runtime-main.js": "/janela-web/static/js/runtime-main.db4a7b61.js",
+    "runtime-main.js.map": "/janela-web/static/js/runtime-main.db4a7b61.js.map",
+    "static/js/2.eebb81cd.chunk.js": "/janela-web/static/js/2.eebb81cd.chunk.js",
+    "static/js/2.eebb81cd.chunk.js.map": "/janela-web/static/js/2.eebb81cd.chunk.js.map",
+    "static/js/3.d66dc208.chunk.js": "/janela-web/static/js/3.d66dc208.chunk.js",
+    "static/js/3.d66dc208.chunk.js.map": "/janela-web/static/js/3.d66dc208.chunk.js.map",
+    "static/js/4.493ae574.chunk.js": "/janela-web/static/js/4.493ae574.chunk.js",
+    "static/js/4.493ae574.chunk.js.map": "/janela-web/static/js/4.493ae574.chunk.js.map",
+    "static/js/5.3c5d1efd.chunk.js": "/janela-web/static/js/5.3c5d1efd.chunk.js",
+    "static/js/5.3c5d1efd.chunk.js.map": "/janela-web/static/js/5.3c5d1efd.chunk.js.map",
+    "static/js/6.984962b8.chunk.js": "/janela-web/static/js/6.984962b8.chunk.js",
+    "static/js/6.984962b8.chunk.js.map": "/janela-web/static/js/6.984962b8.chunk.js.map",
     "index.html": "/janela-web/index.html",
-    "precache-manifest.0c830ce625c9ab9ae4e6f0fbae441ed9.js": "/janela-web/precache-manifest.0c830ce625c9ab9ae4e6f0fbae441ed9.js",
+    "precache-manifest.4acddb873dfa855d4d65078d8f4a637e.js": "/janela-web/precache-manifest.4acddb873dfa855d4d65078d8f4a637e.js",
     "service-worker.js": "/janela-web/service-worker.js",
-    "static/css/main.82123802.chunk.css.map": "/janela-web/static/css/main.82123802.chunk.css.map",
-    "static/js/2.45b6f164.chunk.js.LICENSE.txt": "/janela-web/static/js/2.45b6f164.chunk.js.LICENSE.txt"
+    "static/css/main.0f16dc0f.chunk.css.map": "/janela-web/static/css/main.0f16dc0f.chunk.css.map",
+    "static/js/2.eebb81cd.chunk.js.LICENSE.txt": "/janela-web/static/js/2.eebb81cd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e51c309e.js",
-    "static/js/2.45b6f164.chunk.js",
-    "static/css/main.82123802.chunk.css",
-    "static/js/main.4856d722.chunk.js"
+    "static/js/runtime-main.db4a7b61.js",
+    "static/js/2.eebb81cd.chunk.js",
+    "static/css/main.0f16dc0f.chunk.css",
+    "static/js/main.d2b8914c.chunk.js"
   ]
 }

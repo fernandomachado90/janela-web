@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/0.js"],"names":["content","title"],"mappings":"+GAAA,yGAEaA,EACX,6BACE,uCACA,6CAISC,EAAQ","file":"static/js/3.d66dc208.chunk.js","sourcesContent":["import React from \"react\"\n\nexport const content = (\n  <div>\n    <h1>Welcome</h1>\n    <p>Hello, world.</p>\n  </div>\n)\n\nexport const title = \"Welcome\"\n"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/3.js"],"names":["content","title"],"mappings":"+GAAA,yGAEaA,EACX,6BACE,gDACA,0CAISC,EAAQ","file":"static/js/6.984962b8.chunk.js","sourcesContent":["import React from \"react\"\n\nexport const content = (\n  <div>\n    <h1>My Third Heading</h1>\n    <p>He he hee.</p>\n  </div>\n)\n\nexport const title = \"...\"\n"],"sourceRoot":""}
